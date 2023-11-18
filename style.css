@@ -359,6 +359,7 @@ h1, .title {
   flex-direction: row;
   gap: 2.5rem;
   justify-content: space-around;
+  padding-top: 40px;
 }
 
 article {

@@ -357,9 +357,7 @@ h1, .title {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
   justify-content: space-around;
-  padding-top: 40px;
 }
 
 article {
@@ -372,6 +370,7 @@ article {
 article .icon {
   cursor: default;
 }
+
 
 /* PROJECTS SECTION */
 
@@ -387,7 +386,6 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 2rem;
   width: 90%;
   height: 90%;
 }
@@ -447,8 +445,7 @@ article .icon {
   margin-top: 50px;
   margin-left: 70px;
   width: 50%;
-  font-weight: 600;
-  font-size: large;
+  font-weight: 400;
   text-align: center;
   
 }

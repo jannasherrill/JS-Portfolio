@@ -156,9 +156,6 @@ section {
   min-height: fit-content;
 }
 
-.section-container {
-  display: flex;
-}
 
 /* PROFILE SECTION */
 
@@ -183,7 +180,7 @@ section {
 } */
 
 .section__text, .section_text_about {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   text-align: center;
   align-self: center;
   
@@ -244,6 +241,7 @@ h1, .title {
   display: flex;
   justify-content: center;
   gap: 1rem;
+  margin-top: 1rem;
 }
 
 .btn {
@@ -287,6 +285,9 @@ h1, .title {
 #about {
   position: relative;
   background-color: #ffff;
+  border-radius: 2rem;
+  height: 85%;
+  padding: 1rem;
 }
 
 .about-containers {
@@ -304,10 +305,6 @@ h1, .title {
 .about-details-container {
   display: flex;
 }
-/* 
-.about-pic {
-  border-radius: 2rem;
-} */
 
 
 .details-container {
@@ -322,14 +319,8 @@ h1, .title {
 
 .section-container {
   gap: 3rem;
-  height: 80%;
+  display: flex;
 }
-
-/* .section__pic-container {
-  height: 400px;
-  width: 400px;
-  margin: auto 0;
-} */
 
 /* EXPERIENCE SECTION */
 
@@ -388,6 +379,7 @@ article .icon {
 .project-img {
   width: 90%;
   height: 90%;
+  padding-bottom: 1rem;
 }
 /* 
 .project-title {
@@ -442,7 +434,7 @@ article .icon {
 }
 
 .contact-text{
-  margin-top: 50px;
+  margin-top: 40px;
   margin-left: 70px;
   width: 50%;
   font-weight: 400;
@@ -541,8 +533,7 @@ textarea {
 /* FOOTER SECTION */
 
 footer {
-  height: 5vh;
-  margin: 0 1rem;
+  padding-top: 1rem;
 }
 
 footer p {

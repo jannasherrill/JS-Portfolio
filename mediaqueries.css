@@ -53,38 +53,35 @@
   }
   
   @media screen and (max-width: 600px) {
-    #contact,{
-      height: 20vh;
-      
-      
-    }
-    #profile {
+    
+    #profile { 
       height: 83vh;
       margin-bottom: 0;
     }
+
     article {
       font-size: 1rem;
     }
-    /* footer nav {
-      height: fit-content;
-      margin-bottom: 2rem;
-    } */
+   
     .about-containers,
     .btn-container,.contacts-container,.contact-text, #contact {
       flex-wrap: wrap;
     }
-
+    
+    .contacts-container {
+      display: block;
+    }
   .icon{
     padding: .3em;
   }
-    
+/*     
     .contact-info-container {
       margin: 0;
     }
     .contact-info-container p,
     .nav-links li a {
       font-size: 1rem;
-    }
+    } */
     .experience-sub-title {
       font-size: 1.25rem;
     }

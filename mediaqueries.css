@@ -55,7 +55,7 @@
   @media screen and (max-width: 600px) {
     #contact,{
       height: 20vh;
-      width: auto;
+      
       
     }
     #profile {
@@ -73,7 +73,7 @@
     .btn-container,.contacts-container,.contact-text, #contact {
       flex-wrap: wrap;
     }
-    
+
   .icon{
     padding: .3em;
   }

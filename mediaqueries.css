@@ -73,6 +73,11 @@
     .btn-container,.contacts-container,.contact-text, #contact {
       flex-wrap: wrap;
     }
+    
+  .icon{
+    padding: .3em;
+  }
+    
     .contact-info-container {
       margin: 0;
     }

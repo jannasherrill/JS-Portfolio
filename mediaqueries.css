@@ -10,6 +10,7 @@
     #projects, #experience {
       height: fit-content;
     }
+;
       
   }
   
@@ -17,9 +18,8 @@
     #desktop-nav {
       display: none;
     }
-    #hamburger-nav {
-      display: flex;
     }
+
     #profile{
       margin-bottom: 1rem;
     
@@ -68,9 +68,6 @@
       flex-wrap: wrap;
     }
     
-    .contacts-container {
-      display: block;
-    }
   .icon{
     padding: .3em;
   }

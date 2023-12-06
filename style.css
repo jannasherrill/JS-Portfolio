@@ -464,7 +464,7 @@ input[type=message] {
 textarea {
   resize: none;
 }
-/* PHOTO SLIDER SECTION*/
+/* PHOTO SLIDER SECTION
 .container{
     position: relative;
 }
@@ -472,7 +472,7 @@ textarea {
     width: 30vw;
     height: 75vh;
     /* box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6); */
-    margin-left: 2rem;
+    /* margin-left: 2rem;
     overflow: hidden;
 }
 .container .wrapper-holder{
@@ -529,7 +529,7 @@ textarea {
     10%{transform: translateX(-200%);}
     10%{transform: translateX(-200%);}
     50%{transform: translateX(0%);}
-}
+} */ */
 
 /* FOOTER SECTION */
 

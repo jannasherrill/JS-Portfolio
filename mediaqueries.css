@@ -108,11 +108,14 @@
     padding: auto; */
     
     input{
- width: 90%;
+ width: 100%;
+}
+
+.contact-text{
+  margin-right: 2rem;
 }
 
 .contacts-container, #contact{
   width: 75vw;
-  margin-left: 2rem;
 }
 }

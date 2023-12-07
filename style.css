@@ -439,6 +439,9 @@ textarea {
   resize: none;
 }
 
+input[type=submit]{
+  background-color: #e58c8e;
+}
 /* FOOTER SECTION */
 
 footer {

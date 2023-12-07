@@ -104,13 +104,15 @@
  width: 100%;
 }
 
+.form{
+  position: relative;
+  right: 60px;
+}
+
 .contact-text{
   margin-right: 2rem;
 }
 
-.form{
-  margin-right: 5rem;
-}
 
 .contacts-container, #contact{
   width: 75vw;

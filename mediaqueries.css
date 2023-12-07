@@ -99,14 +99,7 @@
     .text-container {
       text-align: justify;
     }
-    /* .form, .textarea{
-    max-width: 30%; */
-    /* display:flex;
-    justify-content:center;
-    align-items:center;
-    position: relative;
-    padding: auto; */
-    
+
     input{
  width: 100%;
 }
@@ -116,7 +109,7 @@
 }
 
 form{
-  margin-right: 4rem;
+  align-items: center;
 }
 
 .contacts-container, #contact{

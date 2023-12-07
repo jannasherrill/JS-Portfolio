@@ -111,7 +111,7 @@
  width: 100%;
 }
 
-.contact-text{
+.contact-text, form{
   margin-right: 2rem;
 }
 

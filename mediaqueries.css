@@ -99,12 +99,19 @@
     .text-container {
       text-align: justify;
     }
-    .form, .textarea{
-    max-width: 50%;
-    display:flex;
+    /* .form, .textarea{
+    max-width: 30%; */
+    /* display:flex;
     justify-content:center;
     align-items:center;
     position: relative;
+    padding: auto; */
+    
+    input{
+ width: 70%;
 }
 
-  }
+.contacts-container, #contact{
+  width: 75vw;
+}
+}
